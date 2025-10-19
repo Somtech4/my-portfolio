@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Portfolio – Somtochukwu Emma-Eze
+# 🔐 Cybersecurity Portfolio – Joshua Somtochukwu  Emma-Eze
 Welcome to my GitHub! I'm a **Cybersecurity Analyst** with expertise in **SOC operations, penetration testing, and digital forensics**.
 
 ## 📁 Featured Projects:

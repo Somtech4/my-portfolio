@@ -14,9 +14,9 @@ You respond fast.
   [machine-learning-threat-detection](https://github.com/somtech4/machine-learning-threat-detection)  
   Real-time Random Forest model deployed as FastAPI API. Detects DDoS, brute force, web attacks, malware, zero-day. 2.24% false positives. Live scoring + Splunk HEC integration.
 
-- **Threat Hunting Lab**  
-  [threat-hunting](https://github.com/somtech4/threat-hunting)  
-  Custom SIEM rules, incident response playbooks, and advanced hunting queries. Ready for Microsoft Sentinel projects (coming soon).
+- **Sentinel Threat Hunting Lab**  
+  [Sentinel-threat-hunting](https://github.com/Somtech4/sentinel-threat-hunting) 
+  Custom SIEM rules, incident response playbooks, and advanced hunting queries. Ready for Microsoft Sentinel projects .
 
 - **SOC Lab 1 – Network Security**  
   [Soclab1](https://github.com/somtech4/Soclab1)  

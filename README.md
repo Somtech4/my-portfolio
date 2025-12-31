@@ -18,7 +18,8 @@ Objective: To build and document reusable, efficient security content for cloud-
 - Key Results: Developed a repository of custom detection rules, hunting queries, and incident response playbooks.
 - Business Impact: Provides a blueprint for implementing cost-effective, automated threat detection and response in Azure environments.
 
- [Enterprise Vulnerability Management & Reporting](https://github.com/Somtech4/Soclab1) (SocLab1)
+
+(inprogress) [Enterprise Vulnerability Management & Reporting](https://github.com/Somtech4/Soclab1) (SocLab1)
 Objective: To emulate and streamline the risk-based vulnerability management lifecycle from assessment to executive reporting.
 - Engineering Stack: Qualys, Jira, Python for automation, PowerShell.
 - Key Results: Automated scanning workflows and authored board-level risk reports that influenced remediation priorities.

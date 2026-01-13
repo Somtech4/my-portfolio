@@ -1,62 +1,75 @@
- Security Architecture & Threat Intelligence
+Security Engineering & Detection
+Hi, I’m Joshua Eze — a Security Engineer with hands-on experience in detection engineering, SIEM operations, and cloud security. I focus on building practical, automated security controls that reduce alert fatigue, improve detection quality, and support effective incident response in modern SOC environments.
+My work sits at the intersection of security operations, engineering, and risk, with a strong emphasis on clarity, auditability, and real-world impact.
 
-Hi, I'm Joshua Eze. I architect intelligent security systems and automate defense at scale. I focus on translating business risk into resilient cloud security controls, with measurable results in reducing incident impact and operational overhead.
+ How to Explore My Work
+* Start here: ML Threat Detection project — end-to-end detection engineering with SIEM integration
+* SOC content: Microsoft Sentinel lab for real-world detection & response workflows
+* Engineering discipline: Review commit history, documentation, and testing approach
 
- Currently: Actively exploring Security Engineering & Cloud Security roles in the UK, Ireland, and Canada (eligible for visa sponsorship).
+ Featured Security Engineering Projects
+ Next-Gen SIEM: ML-Enhanced Threat Detection
+ https://github.com/Somtech4/machine-learning-threat-detection
+Objective Reduce SOC alert fatigue and improve detection fidelity by augmenting traditional SIEM workflows with machine-learning-based threat scoring.
+Engineering Stack Python · Scikit-learn (Random Forest) · FastAPI · Splunk (HEC) · Threat Intelligence
+What I Built
+* Feature-engineered ML models for brute-force, DDoS, and web attack detection
+* Real-time scoring pipeline integrated into Splunk ingestion workflows
+* API-driven architecture suitable for SOC automation and extension
+Impact
+* Demonstrates how ML can support analysts by prioritizing high-confidence alerts
+* Shows a practical approach to improving MTTD without replacing existing SIEM tools
 
-Featured Research & Engineering Projects
+ Microsoft Sentinel Security Operations Lab
+ https://github.com/Somtech4/sentinel-threat-hunting
+Objective Build reusable detection, hunting, and response content for cloud-native SOCs.
+Engineering Stack Azure Sentinel · KQL · Microsoft Defender · SOAR Concepts
+What I Built
+* Custom analytic rules aligned to MITRE ATT&CK
+* Threat hunting queries and investigation workflows
+* Documented incident response playbooks for SOC handover
+Impact
+* Provides a blueprint for cost-effective, structured SOC operations in Azure
+* Emphasizes consistency, auditability, and risk-based triage
 
-[Next-Gen SIEM: Production ML Threat Detection](https://github.com/Somtech4/machine-learning-threat-detection)
-Objective: To solve SOC alert fatigue and improve threat recall by augmenting traditional SIEMs with a real-time ML scoring engine.
-Engineering Stack: Python, Scikit-learn (Random Forest), FastAPI, ngrok, Splunk HEC.
-Key Results:  Achieved 2.24% false positive rate and 93.7% attack recall across DDoS, brute force, and web attack simulations.
-- Business Impact: Demonstrates a production-ready approach to reducing analyst burnout and accelerating mean time to detect (MTTD) through automation.
+ Enterprise Vulnerability Management & Reporting (In Progress)
+ https://github.com/Somtech4/Soclab1
+Objective Simulate an end-to-end vulnerability management lifecycle — from scanning to executive reporting.
+Engineering Stack Qualys · Python · PowerShell · Jira · Risk Frameworks
+What I’m Building
+* Automated vulnerability scanning and validation workflows
+* Risk-based prioritization aligned to business impact
+* Clear, executive-level reporting to support remediation decisions
+Impact
+* Demonstrates ability to translate technical findings into actionable risk insights
+* Reflects real-world enterprise vulnerability management practices
 
- [Microsoft Sentinel Security Operations Lab](https://github.com/Somtech4/sentinel-threat-hunting)
-Objective: To build and document reusable, efficient security content for cloud-native SOCs.
-- Engineering Stack: KQL, Azure Sentinel, Microsoft Defender, SOAR concepts.
-- Key Results: Developed a repository of custom detection rules, hunting queries, and incident response playbooks.
-- Business Impact: Provides a blueprint for implementing cost-effective, automated threat detection and response in Azure environments.
+Professional Approach
+Focus Area	How I Apply It
+Risk-Based Security	Prioritize findings based on exploitability and business impact
+Automation	Reduce manual triage and repetitive SOC tasks
+Detection Engineering	Improve signal quality, not alert volume
+Cloud-Native Defense	Design detections for Azure-first environments
+Communication	Produce clear, audit-ready security documentation
 
+Core Technical Skills
+Security Operations & Detection Microsoft Sentinel · Splunk · Defender XDR · MITRE ATT&CK · Threat Hunting · Incident Response
+Engineering & Automation Python · KQL · PowerShell · REST APIs · SOAR Concepts · Version Control (Git)
+Cloud & Platforms Microsoft Azure · Identity & Access Management · Cloud Logging & Monitoring
+Governance & Risk ISO 27001 (practical implementation) · NIST CSF · Security Documentation
 
-(inprogress) [Enterprise Vulnerability Management & Reporting](https://github.com/Somtech4/Soclab1) (SocLab1)
-Objective: To emulate and streamline the risk-based vulnerability management lifecycle from assessment to executive reporting.
-- Engineering Stack: Qualys, Jira, Python for automation, PowerShell.
-- Key Results: Automated scanning workflows and authored board-level risk reports that influenced remediation priorities.
-- Business Impact: Shows ability to bridge technical findings with business risk, a critical skill for enterprise security programs.
+**Education & Certifications
+**Education
+* MSc Cyber Security — University of Bradford (UK)
+* BEng Information & Communication Engineering
+Certifications
+* CompTIA CySA+
+* ISO Lead Implementer
+* Microsoft Azure Fundamentals (AZ-900)
+* (In Progress) SC-200 · 
 
-Professional Value Proposition
-
-I specialize in building and securing cloud-centric enterprises. My work is guided by a simple principle: security must enable business resilience, not hinder it.
-
-| My Approach                                          | Measurable Outcomes                                  |
-| :------------------------------------------------------- | :------------------------------------------------------- |
-| Risk-Based Prioritization                            | Reduced critical vulnerability backlog by 75% in one cycle. |
-| Automation-First Security                            | Cut false positives by 68% and slashed incident response time by 55%. |
-| Business-Aligned Controls                            | Implemented ISO 27001 and IEC 62443 controls in regulated financial and industrial environments. |
-| Cloud-Native Defense (Azure)                         | Managed DDoS & DLP for 120+ assets, maintaining 99.9% uptime with zero data exfiltration. |
-
-Core Technical Competencies
-
-Cloud Security & SIEM: `Microsoft Sentinel` `Microsoft Defender XDR` `Azure Security Suite` `Splunk`
-Security Engineering: `Threat Hunting` `Incident Response` `SOAR Automation` `KQL` `Python` `PowerShell`
-Governance & Compliance: `ISO 27001 Lead Auditor` `NIST CSF` `NCSC CAF` `Data Protection`
-Emerging Focus: `ML for Security` `Adversarial AI` `Cloud-Native Security Architecture`
-
-Credentials & Development
-
-| Certifications (Held)                           | Certifications (In Progress / Planned)          | Education                                          |
-| :--------------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------- |
-| • ISO 27001:2022 Lead Auditor                        | • SC-200: Microsoft Security Operations Analyst | • MSc Cyber Security (University of Bradford, UK) |
-| • CompTIA Cybersecurity Analyst (CySA+)              | • SC-100: Microsoft Cybersecurity Architect Expert  | • BEng Information & Communication Engineering         |
-| • Microsoft Azure Fundamentals (AZ-900)              | • AZ-500: Azure Security Engineer Associate         |                                                        |
-
- Let's Connect & Collaborate
-
-I am actively seeking roles where I can contribute to building mature, intelligent security programs. My expertise is particularly relevant for organizations scaling their cloud infrastructure or enhancing their threat detection capabilities.
-
-- Professional Network: [LinkedIn](https://www.linkedin.com/in/joshua-eze)
-- Technical Dialogue & Inquiries: [somtoeze21@gmail.com](mailto:somtoeze21@gmail.com)
-- Location: United Kingdom (Relocatable for the right opportunity).
-
-> "The goal is not to build a taller wall, but a smarter sensor network."
+Let’s Connect
+I’m interested in Security Engineer, Detection Engineer, and SOC Engineering roles where I can contribute to building reliable, scalable security operations.
+*  LinkedIn: https://www.linkedin.com/in/joshua-eze
+*  Email: somtoeze21@gmail.com
+*  Location: United Kingdom (open to relocation for the right role)

@@ -9,7 +9,7 @@ My work sits at the intersection of security operations, engineering, and risk, 
 
 Featured Security Engineering Projects
 
-Next-Gen SIEM: ML-Enhanced Threat Detection
+SIEM: ML-Enhanced Threat Detection
 https://github.com/Somtech4/machine-learning-threat-detection
 
 Objective

@@ -96,6 +96,7 @@ Demonstrates the ability to **translate technical findings into actionable risk 
 
 | Focus Area | How I Apply It |
 |-----------|---------------|
+
 | Risk-Based Security | Prioritize findings based on exploitability and business impact |
 | Automation | Reduce manual triage and repetitive SOC tasks |
 | Detection Engineering | Improve signal quality, not alert volume |

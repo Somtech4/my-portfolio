@@ -1,6 +1,6 @@
 # Security Engineering & Detection
 
-Hi, I’m Joshua Eze — a Security Engineer focused on detection engineering, SIEM operations, and cloud security.
+Hi, I’m Joshua Eze a Security Engineer focused on detection engineering, SIEM operations, and cloud security.
 
 I approach security as a systems problem, not a checklist.
 
@@ -11,7 +11,7 @@ My projects sit at the intersection of security operations, engineering, and ris
 
 ## How to Explore My Work
 
-- **Start here:** ML-Enhanced Threat Detection — end-to-end detection engineering with SIEM integration  
+- **Start here:** ML-Enhanced Threat Detection, end-to-end detection engineering with SIEM integration  
 - **SOC content:** Microsoft Sentinel labs for real-world detection, hunting, and response workflows  
 - **Engineering discipline:** Review commit history, documentation, and testing approach  
 
@@ -98,11 +98,19 @@ Demonstrates the ability to **translate technical findings into actionable risk 
 |-----------|---------------|
 
 | Risk-Based Security | Prioritize findings based on exploitability and business impact |
-| Automation | Reduce manual triage and repetitive SOC tasks |
-| Detection Engineering | Improve signal quality, not alert volume |
-| Cloud-Native Defense | Design detections for Azure-first environments |
-| Communication | Produce clear, audit-ready security documentation |
+|-----------|---------------|
 
+| Automation | Reduce manual triage and repetitive SOC tasks |
+|-----------|---------------|
+
+| Detection Engineering | Improve signal quality, not alert volume |
+|-----------|---------------|
+
+| Cloud-Native Defense | Design detections for Azure-first environments |
+|-----------|---------------|
+
+| Communication | Produce clear, audit-ready security documentation |
+|-----------|---------------|
 
 
 ## Core Technical Skills

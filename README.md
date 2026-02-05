@@ -98,19 +98,19 @@ Demonstrates the ability to **translate technical findings into actionable risk 
 |-----------|---------------|
 
 | Risk-Based Security | Prioritize findings based on exploitability and business impact |
-|-----------|---------------|
+
 
 | Automation | Reduce manual triage and repetitive SOC tasks |
-|-----------|---------------|
+
 
 | Detection Engineering | Improve signal quality, not alert volume |
-|-----------|---------------|
+
 
 | Cloud-Native Defense | Design detections for Azure-first environments |
-|-----------|---------------|
+
 
 | Communication | Produce clear, audit-ready security documentation |
-|-----------|---------------|
+
 
 
 ## Core Technical Skills

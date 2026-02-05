@@ -87,6 +87,9 @@ Certifications
 Let’s Connect
 
 I’m interested in Security Engineer, Detection Engineer, and SOC Engineering roles where I can contribute to building reliable, scalable security operations.
+
 LinkedIn: https://www.linkedin.com/in/joshua-eze
+
 Email: somtoeze21@gmail.com
+
 Location: United Kingdom (open to relocation for the right role)
